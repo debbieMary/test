@@ -17,3 +17,6 @@ function App() {
 }
 
 export default App
+ function calcularHoras(){
+  console.log("hola me llamo debbie");
+ }
